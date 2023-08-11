@@ -14,7 +14,7 @@ from setuptools.command.build_ext import build_ext
 from Cython.Build import cythonize
 
 
-OPENFST_VERSION = "1.7.9"
+OPENFST_VERSION = "1.7.5"
 
 
 def copy(src, dst):
